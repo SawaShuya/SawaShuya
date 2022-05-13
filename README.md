@@ -2,7 +2,7 @@
   <img align="left" src="https://github-readme-stats.vercel.app/api?username=SawaShuya&count_private=true&show_icons=true&theme=dracula&include_all_commits=true" />
 </a>
 <a href="https://github.com/SawaShuya">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SawaShuya&theme=dracula&hide=slim,coffeescript,css,dockerfile,shell&langs_count=" />
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SawaShuya&theme=dracula&hide=slim,coffeescript,css,dockerfile,shell&langs_count=3" />
 </a>
 <!--
 **SawaShuya/SawaShuya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
